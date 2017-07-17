@@ -1,4 +1,4 @@
-package GameShop.pcgamingbackend;
+package gamingshop.pcgamingbackend;
 
 /**
  * Hello world!

@@ -1,4 +1,4 @@
-package GameShop.pcgamingbackend;
+package gamingshop.pcgamingbackend;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
